@@ -6,7 +6,7 @@ import USER from '../data/user.json';
 
 const Project = () => (
     <AppShell
-      title={`Syed Moinuddin | ${USER.project.title}`}
+      title={`Muhammad Zawar | ${USER.project.title}`}
       description={USER.project.desctiption}
       keyword="project, projects, portfolio project, web development project, skill"
     >

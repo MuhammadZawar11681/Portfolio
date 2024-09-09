@@ -3,9 +3,6 @@
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
   "/": "pages/index.js",
-  "/projects": "pages/projects.js",
-  "/resume": "pages/resume.js",
-  "/experiences": "pages/experiences.js",
   "/about": "pages/about.js",
   "/contact": "pages/contact.js"
 }

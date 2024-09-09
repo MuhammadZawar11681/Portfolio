@@ -5,7 +5,7 @@ import USER from '../data/user.json';
 
 const About = () => (
   <AppShell
-    title={`Syed Moinuddin | ${USER.about.title}`}
+    title={`Muhammad Zawar | ${USER.about.title}`}
     description={USER.about.description}
     keyword="about me, about, me, history"
   >
