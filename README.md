@@ -1,10 +1,5 @@
 
 ## Portfolio using Next.js and Tailwind CSS
-
-
-![Screenshot (55)](https://github.com/SyedMoin-lab/Portfolio-Next-JS-Tailwindcss/assets/63508680/332fbf56-8a53-4c9c-b0fc-cb2a494ce49f)
-
-
 This is a portfolio template built using ReactJS with Next.js, Tailwind CSS, Firebase, and various other technologies. The purpose of this project is to showcase your skills and projects in a professional and visually appealing manner.
 
 ## Tech Stack
@@ -64,7 +59,7 @@ This portfolio can be easily deployed using Vercel. Simply connect your GitHub r
 1. **Clone the repository**:
 
 ```bash
-git clone https://github.com/SyedMoin-Lab/Portfolio-Next-JS-Tailwindcss.git
+git clone https://github.com/MuhammadZawar11681/Portfolio.git
 ```
 
 2. **Install dependencies**:
@@ -90,9 +85,5 @@ This portfolio can be easily deployed using Vercel. Simply connect your GitHub r
 
 Contributions are welcome! If you have any suggestions, feature requests, or bug reports, please open an issue or create a pull request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
 
 Feel free to adjust the description and instructions as needed!
