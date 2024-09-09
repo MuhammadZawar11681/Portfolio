@@ -7,7 +7,7 @@ const AppHead = ({ title, description, keyword, image }) => (
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta
       name="keywords"
-      content={`Syed Moinuddin, web developer, portfolio, frontend developer, web developer, frontend enginer, indonesia, portfolio, software enginer, ${keyword}`}
+      content={`Muhammad Zawar, web developer, portfolio, frontend developer, web developer, frontend enginer, indonesia, portfolio, software enginer, ${keyword}`}
     />
     <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
@@ -34,7 +34,7 @@ AppHead.propTypes = {
 AppHead.defaultProps = {
   title: "Muhammad Zawar",
   description:
-    "I am a student from Indonesia, who focuses on web development, especially frontend web development.",
+    "I am a student from Pakistan, who focuses on web development, especially frontend web development.",
   keyword: "",
   image: "/icon-192x192.png",
 };

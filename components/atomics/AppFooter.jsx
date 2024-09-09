@@ -1,8 +1,8 @@
-import USER from '../../data/user.json';
+import USER from "../../data/user.json";
 
 const AppFooter = () => {
   const handleCopyrightYears = () => {
-    const startYears = '2021';
+    const startYears = "2021";
     const nowYears = new Date().getFullYear();
     const rangeYears =
       startYears === nowYears.toString()
