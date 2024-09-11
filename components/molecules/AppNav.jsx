@@ -55,7 +55,7 @@ const AppNav = () => {
       >
         <Link href="/" className="flex items-center">
           <Image
-            src="/favicon.jpg"
+            src="/favicon.ico"
             alt="Muhammad Zawar"
             width={40}
             height={40}
